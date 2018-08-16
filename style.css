@@ -31,7 +31,8 @@ body
     left: 0;
     height: 90%;
     width: 100%;
-   
+    display: none;
+    display: block;
 }
 .back
 {
