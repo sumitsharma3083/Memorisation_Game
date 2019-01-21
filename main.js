@@ -122,7 +122,7 @@ var playagainBtn = document.getElementById('playagain-btn');
                        
                         first = '';
                         second = '';
-                     hides = [];
+                        hides = [];
                   }
                   else
                   {
